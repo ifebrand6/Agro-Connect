@@ -4434,7 +4434,11 @@ td.cart-list-item-price {
 	background-size: contain;
 	display: block;
 	height: 30px;
+<<<<<<< HEAD
 	background-image: url("/xx/logo.png");
+=======
+	background-image: url("../img/logo.png");
+>>>>>>> 9cd3248237cf140309acc2a5e2eb6b92ff8b3c8f
 	background-repeat: no-repeat;
 	background-position: left center;
 	line-height: 30px;
