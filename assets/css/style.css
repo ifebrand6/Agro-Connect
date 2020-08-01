@@ -4434,7 +4434,7 @@ td.cart-list-item-price {
 	background-size: contain;
 	display: block;
 	height: 30px;
-	background-image: url("/xx/logo.png");
+	background-image: url("/xx/logo-big.png");
 	background-repeat: no-repeat;
 	background-position: left center;
 	line-height: 30px;
@@ -4442,7 +4442,7 @@ td.cart-list-item-price {
 
 .navigation-header .navigation-brand .brand-logo .logo.logo-alt {
 	display: none;
-	background-image: url("../img/logo-inverted.png");
+	background-image: url("/xx/logo_small.png");
 }
 
 .navigation-header .navigation-brand .brand-logo h4 {
